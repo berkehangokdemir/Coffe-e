@@ -17,7 +17,7 @@ Key Values of Coffe-e:
 5) Customers can track the whole delivery process.
 6) Brand offers custom bundles with reduced prices.
 
-Sources used to create this project:
+Sources that helped to create this project:
 
 1) For Logo:
  1a) Font Type: Alex Brush (License: Open Font License)
